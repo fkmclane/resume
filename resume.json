@@ -1,0 +1,195 @@
+{
+  "basics": {
+    "name": "Foster McLane",
+    "label": "Programmer",
+    "picture": "https://files.fooster.io/fkmclane/fkmclane.png",
+    "email": "fkmclane@fooster.io",
+    "phone": "(919) FOOSTER",
+    "website": "https://fooster.io/",
+    "summary": "I'm primarily a computer programmer who enjoys making things, tinkering, and learning about computers. I have many hobby projects ranging from a telephone controlled automation system to a multi-user game server manager to autonomous robots.",
+    "location": {
+      "address": "8353 University Sta.",
+      "postalCode": "29632-1001",
+      "city": "Clemson",
+      "countryCode": "US",
+      "region": "SC"
+    },
+    "profiles": [
+        {
+            "network": "GitHub",
+            "username": "fkmclane",
+            "url": "https://github.com/fkmclane"
+        }
+    ]
+  },
+  "work": [
+    {
+      "company": "Clemson University",
+      "position": "UPIC Intern",
+      "startDate": "2016-01-11",
+      "summary": "Under Dr. Stephen Moysey, I research teaching applications of geological sciences field techniques in a virtual reality video game."
+    },
+    {
+      "company": "Clemson University",
+      "position": "Undergraduate Student Researcher",
+      "website": "http://people.clemson.edu/~yue6/",
+      "startDate": "2015-01-27",
+      "endDate": "2016-05-07",
+      "summary": "Under Dr. Yue Wang, I researched quadrotor control algorithms and trust aware manufacturing in the Interdisciplinary Intelligence Research Lab, or I²R Lab."
+    },
+    {
+      "company": "FoosterNET, LLC",
+      "position": "Owner",
+      "website": "http://fkmclane.net/",
+      "startDate": "2013-11-26",
+      "summary": "FoosterNET is a company I use for freelance work in computer programming and system administration. It additionally sanctions all other services I provide for money including server hosting."
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "OpenShot",
+      "position": "Packager",
+      "website": "http://openshot.org/",
+      "startDate": "2014-05-01",
+      "endDate": "2014-07-01",
+      "summary": "OpenShot is a simple, powerful, and free open-source video editor for Linux with a focus on usability, flexibility, and style. I work on their team to package the editing library and program for multiple Linux distributions including Debian/Ubuntu, Arch Linux, and Gentoo Linux."
+    },
+    {
+      "organization": "Clemson ACM",
+      "position": "Webmaster",
+      "website": "http://www.cs.clemson.edu/acm/",
+      "startDate": "2014-09-21",
+      "summary": "ACM, the Association for Computing Machinery, is the world's largest society for scientific and educational computing. I am the webmaster of Clemson University's local chapter where I create and maintain their website."
+    },
+    {
+      "organization": "CU Cyber",
+      "position": "Secretary",
+      "website": "http://cucyber.net/",
+      "startDate": "2015-08-27",
+      "summary": "CU Cyber is the cyber security club at Clemson University. We participate in cyber defense competitions and hold weekly seminars involving cyber security. I am the secretary of CU Cyber where I maintain club organization and preparation."
+    }
+  ],
+  "education": [
+    {
+      "institution": "SC Governor's School for Science and Mathematics",
+      "area": "Computer Science",
+      "studyType": "High School",
+      "startDate": "2012-07-13",
+      "endDate": "2014-05-31",
+      "courses": [
+        "Advanced Computer Science",
+        "Digital Logic",
+        "Modern Physics"
+      ]
+    },
+    {
+      "institution": "Clemson University",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Science",
+      "startDate": "2014-07-18",
+      "endDate": "2018-05-01",
+      "courses": [
+        "Discrete Structures",
+        "Algorithms",
+        "Computer Organization",
+        "Software Engineering",
+        "Operating Systems",
+        "Foundations of Computer Science",
+        "Principles of Programming Languages",
+        "Special Topics in Embedded Computing"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Outstanding Research and Presentation",
+      "date": "2014-04-05",
+      "awarder": "SC Junior Academy of Science",
+      "summary": "Awards: 1st Oral Presentation - Computer Science, 1st Written Presentation - Computer Science. The awards included an invitation to the American Junior Academy of Science."
+    }
+  ],
+  "publications": [
+    {
+      "name": "Vision-Based Control of a Quadrotor",
+      "publisher": "GSSM",
+      "releaseDate": "2014-02-01",
+      "summary": "Vision-Based Control of a Quadrotor uses a quadrotor and its two mounted cameras to have the quadrotor perform basic analysis of its environment and make decisions based on it. It includes basic applications for following a marked path or object and an extensible interface for writing more complex autonomous logic."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "Master",
+      "keywords": [
+        "C",
+        "C++",
+        "C#",
+        "Python",
+        "JavaScript",
+        "Java",
+        "PHP"
+      ]
+    },
+    {
+      "name": "Linux Administration",
+      "level": "Master",
+      "keywords": [
+        "Website Deployment",
+        "Virtual Machines",
+        "Networking",
+        "General Services",
+        "Arch Linux",
+        "RedHat Enterprise Linux",
+        "Gentoo Linux",
+        "Ubuntu",
+        "Debian"
+      ]
+    },
+    {
+      "name": "Software Development",
+      "level": "Master",
+      "keywords": [
+        "REST",
+        "Robot Operating System",
+        "GTK+"
+      ]
+    },
+    {
+      "name": "Game Development",
+      "level": "Proficient",
+      "keywords": [
+        "Unity",
+        "Pyglet"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "level": "Proficient",
+      "keywords": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "PHP",
+        "Python"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Proficient"
+    },
+    {
+      "language": "French",
+      "fluency": "Proficient"
+    },
+    {
+      "language": "Lojban",
+      "fluency": "Learning"
+    }
+  ]
+}
