@@ -110,6 +110,12 @@
   ],
   "publications": [
     {
+      "name": "Trust-Based Mixed-Initiative Teleoperation of Mobile Robots",
+      "publisher": "American Control Conference",
+      "releaseDate": "2016-07-06",
+      "summary": "Trust-Based Mixed-Initiative Teleoperation of Mobile Robots is a scheme for the bilateral teleoperation of mobile robotic systems using a quadrotor, ground robot, and a haptic feedback device. In the scheme, control is shared between human and autonomous controllers with the human controller having force feedback cues. Two-way trust models are calculated to dynamically scale each control input for optimal performance and reduced physical workload of the human operator. The results indicate that the proposed scheme improves task performance by 31% and reduces the operator workload by 23.9%."
+    },
+    {
       "name": "Vision-Based Control of a Quadrotor",
       "publisher": "GSSM",
       "releaseDate": "2014-02-01",
@@ -131,7 +137,7 @@
       ]
     },
     {
-      "name": "Linux Administration",
+      "name": "Unix Administration",
       "level": "Master",
       "keywords": [
         "Website Deployment",
@@ -142,7 +148,26 @@
         "RedHat Enterprise Linux",
         "Gentoo Linux",
         "Ubuntu",
-        "Debian"
+        "Debian",
+        "FreeBSD"
+      ]
+    },
+    {
+      "name": "Network Security",
+      "level": "Master",
+      "keywords": [
+        "pfSense",
+        "UniFi"
+      ]
+    },
+    {
+      "name": "Virtualization",
+      "level": "Master",
+      "keywords": [
+        "libvirt",
+        "oVirt",
+        "Stateless Hypervisors",
+        "PXE"
       ]
     },
     {
@@ -154,6 +179,14 @@
         "GTK+"
       ]
     },
+    {
+      "name": "Text Editing",
+      "level": "Master",
+      "keywords": [
+        "Neovim",
+        "Vim",
+        "Vi"
+      ]
     {
       "name": "Game Development",
       "level": "Proficient",
@@ -171,6 +204,23 @@
         "JavaScript",
         "PHP",
         "Python"
+      ]
+    },
+    {
+      "name": "Documentation",
+      "level": "Proficient",
+      "keywords": [
+        "LaTeX",
+        "Markdown"
+      ]
+    },
+    {
+      "name": "Computer Graphics",
+      "level": "Beginner",
+      "keywords": [
+        "Blender",
+        "GIMP",
+        "Inkscape"
       ]
     }
   ],
