@@ -47,12 +47,11 @@
   ],
   "volunteer": [
     {
-      "organization": "OpenShot",
-      "position": "Packager",
-      "website": "http://openshot.org/",
-      "startDate": "2014-05-01",
-      "endDate": "2014-07-01",
-      "summary": "OpenShot is a simple, powerful, and free open-source video editor for Linux with a focus on usability, flexibility, and style. I work on their team to package the editing library and program for multiple Linux distributions including Debian/Ubuntu, Arch Linux, and Gentoo Linux."
+      "organization": "CU Cyber",
+      "position": "Secretary",
+      "website": "http://cucyber.net/",
+      "startDate": "2015-08-27",
+      "summary": "CU Cyber is the cyber security club at Clemson University. We participate in cyber defense competitions and hold weekly seminars involving cyber security. I am the secretary of CU Cyber where I maintain club organization and preparation."
     },
     {
       "organization": "Clemson ACM",
@@ -62,26 +61,15 @@
       "summary": "ACM, the Association for Computing Machinery, is the world's largest society for scientific and educational computing. I am the webmaster of Clemson University's local chapter where I create and maintain their website."
     },
     {
-      "organization": "CU Cyber",
-      "position": "Secretary",
-      "website": "http://cucyber.net/",
-      "startDate": "2015-08-27",
-      "summary": "CU Cyber is the cyber security club at Clemson University. We participate in cyber defense competitions and hold weekly seminars involving cyber security. I am the secretary of CU Cyber where I maintain club organization and preparation."
+      "organization": "OpenShot",
+      "position": "Packager",
+      "website": "http://openshot.org/",
+      "startDate": "2014-05-01",
+      "endDate": "2014-07-01",
+      "summary": "OpenShot is a simple, powerful, and free open-source video editor for Linux with a focus on usability, flexibility, and style. I work on their team to package the editing library and program for multiple Linux distributions including Debian/Ubuntu, Arch Linux, and Gentoo Linux."
     }
   ],
   "education": [
-    {
-      "institution": "SC Governor's School for Science and Mathematics",
-      "area": "Computer Science",
-      "studyType": "High School",
-      "startDate": "2012-07-13",
-      "endDate": "2014-05-31",
-      "courses": [
-        "Advanced Computer Science",
-        "Digital Logic",
-        "Modern Physics"
-      ]
-    },
     {
       "institution": "Clemson University",
       "area": "Computer Science",
@@ -97,6 +85,18 @@
         "Foundations of Computer Science",
         "Principles of Programming Languages",
         "Special Topics in Embedded Computing"
+      ]
+    },
+    {
+      "institution": "SC Governor's School for Science and Mathematics",
+      "area": "Computer Science",
+      "studyType": "High School",
+      "startDate": "2012-07-13",
+      "endDate": "2014-05-31",
+      "courses": [
+        "Advanced Computer Science",
+        "Digital Logic",
+        "Modern Physics"
       ]
     }
   ],
