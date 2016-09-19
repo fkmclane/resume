@@ -2,11 +2,11 @@
   "basics": {
     "name": "Foster McLane",
     "label": "Programmer",
-    "picture": "https://files.fooster.io/fkmclane/fkmclane.png",
+    "picture": "https://file.fooster.io/fkmclane/fkmclane.png",
     "email": "fkmclane@gmail.com",
     "phone": "(919) FOOSTER",
     "website": "https://fooster.io/",
-    "summary": "I'm primarily a computer programmer who enjoys making things, tinkering, and learning about computers. I have many hobby projects ranging from a telephone controlled automation system to a multi-user game server manager to autonomous robots.",
+    "summary": "I am a computer enthusiast and enjoy almost everything to do with computers, from low-level logic circuits to high-level programming. I am especially interested in embedded programming, operation systems, program security, network security, and network protocols.",
     "location": {
       "address": "8353 University Sta.",
       "postalCode": "29632-1001",
@@ -40,25 +40,32 @@
     {
       "company": "FoosterNET, LLC",
       "position": "Owner",
-      "website": "http://fkmclane.net/",
+      "website": "https://fooster.io/",
       "startDate": "2013-11-26",
-      "summary": "FoosterNET is a company I use for freelance work in computer programming and system administration. It additionally sanctions all other services I provide for money including server hosting."
+      "summary": "FoosterNET, LLC is a company I use for freelance work in computer programming, system administration, and amateur cyber security consulting. It additionally sanctions all other services I provide for money including server hosting."
     }
   ],
   "volunteer": [
     {
       "organization": "CU Cyber",
       "position": "Secretary",
-      "website": "http://cucyber.net/",
+      "website": "https://cucyber.net/",
       "startDate": "2015-08-27",
-      "summary": "CU Cyber is the cyber security club at Clemson University. We participate in cyber defense competitions and hold weekly seminars involving cyber security. I am the secretary of CU Cyber where I maintain club organization and preparation."
+      "summary": "CU Cyber is the cyber security club at Clemson University. We participate in cyber defense competitions and hold weekly seminars involving cyber security. I am the secretary of CU Cyber where I maintain club organization and preparation. I additionally help create many of the weekly seminars given."
     },
     {
       "organization": "Clemson ACM",
       "position": "Webmaster",
-      "website": "http://www.cs.clemson.edu/acm/",
+      "website": "https://www.cs.clemson.edu/acm/",
       "startDate": "2014-09-21",
       "summary": "ACM, the Association for Computing Machinery, is the world's largest society for scientific and educational computing. I am the webmaster of Clemson University's local chapter where I create and maintain their website."
+    },
+    {
+      "organization": "Gentoo Overlay - fkmclane",
+      "position": "Owner",
+      "website": "https://github.com/fkmclane/overlay",
+      "startDate": "2013-05-26",
+      "summary": "I have a recognized overlay for my distribution of choice for my workstation, Gentoo. I maintain over 50 packages in this overlay that range from little X11 tools to the Unity Editor, from the game engine, for Linux to all of the Linux software associated with Plex. Additionally I have a few of my own tools that I wrote such as one to manage tty sessions intelligently without having a display manager."
     },
     {
       "organization": "OpenShot",
@@ -156,7 +163,9 @@
       "name": "Network Security",
       "level": "Master",
       "keywords": [
+        "Cisco",
         "pfSense",
+        "Endian",
         "UniFi"
       ]
     },
@@ -212,7 +221,8 @@
       "level": "Proficient",
       "keywords": [
         "LaTeX",
-        "Markdown"
+        "Markdown",
+        "VimWiki"
       ]
     },
     {
