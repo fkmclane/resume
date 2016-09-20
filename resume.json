@@ -124,7 +124,7 @@
     },
     {
       "name": "Vision-Based Control of a Quadrotor",
-      "publisher": "GSSM",
+      "publisher": "SC GSSM",
       "releaseDate": "2014-02-01",
       "summary": "Vision-Based Control of a Quadrotor uses a quadrotor and its two mounted cameras to have the quadrotor perform basic analysis of its environment and make decisions based on it. It includes basic applications for following a marked path or object and an extensible interface for writing more complex autonomous logic."
     }
