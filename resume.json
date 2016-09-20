@@ -47,11 +47,25 @@
   ],
   "volunteer": [
     {
+      "organization": "FTC - Star Bots 6170",
+      "position": "Mentor",
+      "website": "http://ehs.pickens.k12.sc.us/fine_arts_organizations/student_life/robotics_club",
+      "startDate": "2016-09-13",
+      "summary": "After having three years of experience of participating in the FIRST Tech Challenge robotics competition, or FTC, including one year of which I was team captain and made it to the super regional competition, I mentor the nearby Easley team, Star Bots."
+    },
+    {
       "organization": "CU Cyber",
       "position": "Secretary",
       "website": "https://cucyber.net/",
       "startDate": "2015-08-27",
       "summary": "CU Cyber is the cyber security club at Clemson University. We participate in cyber defense competitions and hold weekly seminars involving cyber security. I am the secretary of CU Cyber where I maintain club organization and preparation. I additionally help create many of the weekly seminars given."
+    },
+    {
+      "organization": "SC Robotics Education Foundation",
+      "position": "Field Technical Advisor and Field Inspector",
+      "website": "http://scref.org/",
+      "startDate": "2015-01-31",
+      "summary": "After three years of experience of participating in the FIRST Tech Challenge robotics competition, I volunteer to run the scrimmage hosted by the SC GSSM and am the main technical coordinator for the state competition."
     },
     {
       "organization": "Clemson ACM",
