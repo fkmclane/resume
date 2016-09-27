@@ -27,7 +27,7 @@
       "company": "Clemson University",
       "position": "UPIC Intern",
       "startDate": "2016-01-11",
-      "summary": "Under Dr. Stephen Moysey, I research teaching applications of geological sciences field techniques in a virtual reality video game."
+      "summary": "Under Dr. Stephen Moysey, I research teaching applications of geological sciences field techniques in a virtual reality video game. The game, titled Virtual Reality Field Experiences, will feature a trip to the Grand Canyon where the gamer will learn rock identification techniques and build the stratigraphic column of the canyon."
     },
     {
       "company": "Clemson University",
@@ -93,7 +93,7 @@
   "education": [
     {
       "institution": "Clemson University",
-      "area": "Computer Science",
+      "area": "Computer Science, with an interest in Math and Langauge",
       "studyType": "Bachelor of Science",
       "startDate": "2014-07-18",
       "endDate": "2018-05-01",
@@ -105,6 +105,7 @@
         "Operating Systems",
         "Network Programming",
         "Principles of Programming Languages",
+        "Computer Security Principles",
         "Special Topics in Embedded Computing"
       ]
     },
@@ -165,10 +166,10 @@
         "Virtual Machines",
         "Networking",
         "General Services",
-        "Arch Linux",
         "RedHat Enterprise Linux",
-        "Gentoo Linux",
         "Ubuntu",
+        "Arch Linux",
+        "Gentoo Linux",
         "Debian",
         "FreeBSD"
       ]
