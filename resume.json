@@ -216,7 +216,7 @@
       "name": "Game Development",
       "level": "Proficient",
       "keywords": [
-        "Unity",
+        "Unity 3D",
         "Pyglet"
       ]
     },
@@ -227,8 +227,10 @@
         "HTML5",
         "CSS3",
         "JavaScript",
+        "Semantic UI",
         "PHP",
-        "Python"
+        "Python",
+        "Django"
       ]
     },
     {
