@@ -25,8 +25,21 @@
   "work": [
     {
       "company": "Clemson University",
+      "position": "Cyber Security Intern",
+      "startDate": "2017-01-27",
+      "summary": "Under Clemson Computing and Information Technology, I analyze Clemson's computer network for potential cyber security threats, mitigate current threats, and prevent current threats from happening in the future."
+    },
+    {
+      "company": "Clemson University",
+      "position": "Virtual Reality Intern",
+      "startDate": "2017-01-27",
+      "summary": "Under Dr. Stephen Moysey, I work to bring virtual reality to the university in a variety of ways including setting up VR systems, coordinating generally available VR equipment for students and faculty, and creating demos for VR."
+    },
+    {
+      "company": "Clemson University",
       "position": "UPIC Intern",
       "startDate": "2016-01-11",
+      "endDate": "2016-12-09",
       "summary": "Under Dr. Stephen Moysey, I research teaching applications of geological sciences field techniques in a virtual reality video game. The game, titled Virtual Reality Field Experiences, will feature a trip to the Grand Canyon where the gamer will learn rock identification techniques and build the stratigraphic column of the canyon."
     },
     {
@@ -106,7 +119,9 @@
         "Network Programming",
         "Principles of Programming Languages",
         "Computer Security Principles",
-        "Special Topics in Embedded Computing"
+        "Special Topics in Embedded Computing",
+        "Foundations of Computer Science",
+        "Distributed and Cluster Computing"
       ]
     },
     {
@@ -122,14 +137,6 @@
       ]
     }
   ],
-  "awards": [
-    {
-      "title": "Outstanding Research and Presentation",
-      "date": "2014-04-05",
-      "awarder": "SC Junior Academy of Science",
-      "summary": "Awards: 1st Oral Presentation - Computer Science, 1st Written Presentation - Computer Science. The awards included an invitation to the American Junior Academy of Science."
-    }
-  ],
   "publications": [
     {
       "name": "Trust-Based Mixed-Initiative Teleoperation of Mobile Robots",
@@ -142,6 +149,14 @@
       "publisher": "SC GSSM",
       "releaseDate": "2014-02-01",
       "summary": "Vision-Based Control of a Quadrotor uses a quadrotor and its two mounted cameras to have the quadrotor perform basic analysis of its environment and make decisions based on it. It includes basic applications for following a marked path or object and an extensible interface for writing more complex autonomous logic."
+    }
+  ],
+  "awards": [
+    {
+      "title": "Outstanding Research and Presentation",
+      "date": "2014-04-05",
+      "awarder": "SC Junior Academy of Science",
+      "summary": "Awards: 1st Oral Presentation - Computer Science, 1st Written Presentation - Computer Science. The awards included an invitation to the American Junior Academy of Science."
     }
   ],
   "skills": [
