@@ -26,6 +26,7 @@
     {
       "company": "Clemson University",
       "position": "Cyber Security Intern",
+      "website": "https://ccit.clemson.edu/about/departments/security-operations-center/",
       "startDate": "2017-01-27",
       "summary": "Under Clemson Computing and Information Technology, I analyze Clemson's computer network for potential cyber security threats, mitigate current threats, and prevent current threats from happening in the future."
     },
@@ -36,26 +37,26 @@
       "summary": "Under Dr. Stephen Moysey, I work to bring virtual reality to the university in a variety of ways including setting up VR systems, coordinating generally available VR equipment for students and faculty, and creating demos for VR."
     },
     {
-      "company": "Clemson University",
-      "position": "UPIC Intern",
-      "startDate": "2016-01-11",
-      "endDate": "2016-12-09",
-      "summary": "Under Dr. Stephen Moysey, I research teaching applications of geological sciences field techniques in a virtual reality video game. The game, titled Virtual Reality Field Experiences, will feature a trip to the Grand Canyon where the gamer will learn rock identification techniques and build the stratigraphic column of the canyon."
-    },
-    {
-      "company": "Clemson University",
-      "position": "Undergraduate Student Researcher",
-      "website": "http://people.clemson.edu/~yue6/",
-      "startDate": "2015-01-27",
-      "endDate": "2016-05-07",
-      "summary": "Under Dr. Yue Wang, I researched quadrotor control algorithms and trust aware manufacturing in the Interdisciplinary Intelligence Research Lab, or I²R Lab."
-    },
-    {
       "company": "FoosterNET, LLC",
       "position": "Owner",
       "website": "https://fooster.io/",
       "startDate": "2013-11-26",
-      "summary": "FoosterNET, LLC is a company I use for freelance work in computer programming, system administration, and amateur cyber security consulting. It additionally sanctions all other services I provide for money including server hosting."
+      "summary": "FoosterNET, LLC is a company I use for freelance work in cyber security consulting, system administration, and computer programming. It additionally sanctions all other services I provide for money including server hosting."
+    },
+    {
+      "company": "Clemson University",
+      "position": "Virtual Reality Game Development Intern",
+      "startDate": "2016-01-11",
+      "endDate": "2016-12-09",
+      "summary": "Under Dr. Stephen Moysey, I researched teaching applications of geological sciences field techniques in a virtual reality video game. The game, titled Virtual Reality Field Experiences, features a trip to the Grand Canyon where the gamer learns rock identification techniques and builds the stratigraphic column of the canyon."
+    },
+    {
+      "company": "Clemson University",
+      "position": "Undergraduate Student Researcher in UAV and Manufacuring Robotics",
+      "website": "http://people.clemson.edu/~yue6/",
+      "startDate": "2015-01-27",
+      "endDate": "2016-05-07",
+      "summary": "Under Dr. Yue Wang, I researched quadrotor control algorithms and trust aware manufacturing in the Interdisciplinary Intelligence Research Lab, or I²R Lab."
     }
   ],
   "volunteer": [
@@ -68,10 +69,10 @@
     },
     {
       "organization": "CU Cyber",
-      "position": "Secretary",
+      "position": "Level 5 Tech Support",
       "website": "https://cucyber.net/",
       "startDate": "2015-08-27",
-      "summary": "CU Cyber is the cyber security club at Clemson University. We participate in cyber defense competitions and hold weekly seminars involving cyber security. I am the secretary of CU Cyber where I maintain club organization and preparation. I additionally help create many of the weekly seminars given."
+      "summary": "CU Cyber is the cyber security club at Clemson University. We participate in cyber defense competitions and hold weekly seminars involving cyber security. I was the secretary and am now Level 5 Tech Support of CU Cyber where I maintain club organization, club preparation, and various technological aspects. I additionally help create many of the weekly seminars given."
     },
     {
       "organization": "SC Robotics Education Foundation",
@@ -81,18 +82,19 @@
       "summary": "After three years of experience of participating in the FIRST Tech Challenge robotics competition, I volunteer to run the scrimmage hosted by the SC GSSM and am the main technical coordinator for the state competition."
     },
     {
-      "organization": "Clemson ACM",
-      "position": "Webmaster",
-      "website": "https://www.cs.clemson.edu/acm/",
-      "startDate": "2014-09-21",
-      "summary": "ACM, the Association for Computing Machinery, is the world's largest society for scientific and educational computing. I am the webmaster of Clemson University's local chapter where I create and maintain their website."
-    },
-    {
       "organization": "Gentoo Overlay - fkmclane",
       "position": "Owner",
       "website": "https://github.com/fkmclane/overlay",
       "startDate": "2013-05-26",
       "summary": "I have a recognized overlay for my distribution of choice for my workstation, Gentoo. I maintain over 50 packages in this overlay that range from little X11 tools to the Unity Editor, from the game engine, for Linux to all of the Linux software associated with Plex. Additionally I have a few of my own tools that I wrote such as one to manage tty sessions intelligently without having a display manager."
+    },
+    {
+      "organization": "Clemson ACM",
+      "position": "Webmaster",
+      "website": "https://www.cs.clemson.edu/acm/",
+      "startDate": "2014-09-21",
+      "endDate": "2017-01-13",
+      "summary": "ACM, the Association for Computing Machinery, is the world's largest society for scientific and educational computing. I was the webmaster of Clemson University's local chapter where I created and maintained their website."
     },
     {
       "organization": "OpenShot",
@@ -194,6 +196,7 @@
       "level": "Master",
       "keywords": [
         "Cisco",
+        "Palo Alto",
         "pfSense",
         "Endian",
         "UniFi"
