@@ -2,11 +2,11 @@
   "basics": {
     "name": "Foster McLane",
     "label": "Programmer and Amateur Cyber Security Consultant",
-    "picture": "https://file.fooster.io/fkmclane/fkmclane.png",
+    "picture": "https://file.fooster.io/fkmclane/portrait.jpg",
     "email": "fkmclane@gmail.com",
     "phone": "(919) FOOSTER",
     "website": "https://fooster.io/",
-    "summary": "I am a computer enthusiast and enjoy almost everything to do with computers, from low-level logic circuits to high-level programming. I am especially interested in embedded programming, operation systems, program security, network security, and network protocols.",
+    "summary": "I am a computer enthusiast and enjoy almost everything to do with computers, from low-level logic circuits to high-level programming. I am especially interested in embedded programming, operation systems, program security, network security, and network protocols. In addition to my computer enthusiasm, I have a large interest in high school level education in computational thinking.",
     "location": {
       "address": "8353 University Sta.",
       "postalCode": "29632-1001",
@@ -95,14 +95,6 @@
       "startDate": "2014-09-21",
       "endDate": "2017-01-13",
       "summary": "ACM, the Association for Computing Machinery, is the world's largest society for scientific and educational computing. I was the webmaster of Clemson University's local chapter where I created and maintained their website."
-    },
-    {
-      "organization": "OpenShot",
-      "position": "Packager",
-      "website": "http://openshot.org/",
-      "startDate": "2014-05-01",
-      "endDate": "2014-07-01",
-      "summary": "OpenShot is a simple, powerful, and free open-source video editor for Linux with a focus on usability, flexibility, and style. I work on their team to package the editing library and program for multiple Linux distributions including Debian/Ubuntu, Arch Linux, and Gentoo Linux."
     }
   ],
   "education": [
@@ -113,9 +105,7 @@
       "startDate": "2014-07-18",
       "endDate": "2018-05-01",
       "courses": [
-        "Discrete Structures",
         "Algorithms",
-        "Computer Organization",
         "Software Engineering",
         "Operating Systems",
         "Network Programming",
@@ -144,6 +134,7 @@
       "name": "Trust-Based Mixed-Initiative Teleoperation of Mobile Robots",
       "publisher": "American Control Conference",
       "releaseDate": "2016-07-06",
+      "website": "http://ieeexplore.ieee.org/abstract/document/7526640/",
       "summary": "Trust-Based Mixed-Initiative Teleoperation of Mobile Robots is a scheme for the bilateral teleoperation of mobile robotic systems using a quadrotor, ground robot, and a haptic feedback device. In the scheme, control is shared between human and autonomous controllers with the human controller having force feedback cues. Two-way trust models are calculated to dynamically scale each control input for optimal performance and reduced physical workload of the human operator. The results indicate that the proposed scheme improves task performance by 31% and reduces the operator workload by 23.9%."
     },
     {
@@ -193,7 +184,7 @@
     },
     {
       "name": "Network Security",
-      "level": "Master",
+      "level": "Proficient",
       "keywords": [
         "Cisco",
         "Palo Alto",
@@ -204,7 +195,7 @@
     },
     {
       "name": "Virtualization",
-      "level": "Master",
+      "level": "Proficient",
       "keywords": [
         "libvirt",
         "oVirt",
@@ -214,7 +205,7 @@
     },
     {
       "name": "Software Development",
-      "level": "Master",
+      "level": "Proficient",
       "keywords": [
         "REST",
         "Robot Operating System",
@@ -222,17 +213,8 @@
       ]
     },
     {
-      "name": "Text Editing",
-      "level": "Master",
-      "keywords": [
-        "Neovim",
-        "Vim",
-        "Vi"
-      ]
-    },
-    {
       "name": "Game Development",
-      "level": "Proficient",
+      "level": "Learning",
       "keywords": [
         "Unity 3D",
         "Pyglet"
@@ -252,6 +234,24 @@
       ]
     },
     {
+      "name": "Computer Graphics",
+      "level": "Learning",
+      "keywords": [
+        "Blender",
+        "GIMP",
+        "Inkscape"
+      ]
+    },
+    {
+      "name": "Text Editing",
+      "level": "Master",
+      "keywords": [
+        "Neovim",
+        "Vim",
+        "Vi"
+      ]
+    },
+    {
       "name": "Documentation",
       "level": "Proficient",
       "keywords": [
@@ -259,33 +259,20 @@
         "Markdown",
         "VimWiki"
       ]
-    },
-    {
-      "name": "Computer Graphics",
-      "level": "Beginner",
-      "keywords": [
-        "Blender",
-        "GIMP",
-        "Inkscape"
-      ]
     }
   ],
   "languages": [
     {
-      "language": "English",
-      "fluency": "Native"
+      "name": "English",
+      "level": "Native"
     },
     {
-      "language": "Spanish",
-      "fluency": "Proficient"
+      "name": "French",
+      "level": "Proficient"
     },
     {
-      "language": "French",
-      "fluency": "Proficient"
-    },
-    {
-      "language": "Lojban",
-      "fluency": "Learning"
+      "name": "Lojban",
+      "level": "Learning"
     }
   ]
 }
