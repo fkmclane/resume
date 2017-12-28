@@ -1,15 +1,15 @@
 {
   "basics": {
     "name": "Foster McLane",
-    "label": "Programmer and Amateur Cyber Security Consultant",
+    "label": "Cyber Security Analyst",
     "picture": "https://file.fooster.io/fkmclane/portrait.jpg",
     "email": "fkmclane@gmail.com",
     "phone": "(919) FOOSTER",
     "website": "https://fooster.io/",
     "summary": "I am a computer enthusiast and enjoy almost everything to do with computers, from low-level logic circuits to high-level programming. I am especially interested in embedded programming, operation systems, program security, network security, and network protocols. In addition to my computer enthusiasm, I have a large interest in high school level education in computational thinking.",
     "location": {
-      "address": "8353 University Sta.",
-      "postalCode": "29632-1001",
+      "address": "423 Lindsay Rd. Apt. 404",
+      "postalCode": "29631",
       "city": "Clemson",
       "countryCode": "US",
       "region": "SC"
@@ -25,16 +25,10 @@
   "work": [
     {
       "company": "Clemson University",
-      "position": "Cyber Security Intern",
+      "position": "Cyber Security Analyst",
       "website": "https://ccit.clemson.edu/about/departments/security-operations-center/",
-      "startDate": "2017-01-27",
-      "summary": "Under Clemson Computing and Information Technology, I analyze Clemson's computer network for potential cyber security threats, mitigate current threats, and prevent current threats from happening in the future."
-    },
-    {
-      "company": "Clemson University",
-      "position": "Virtual Reality Intern",
-      "startDate": "2017-01-27",
-      "summary": "Under Dr. Stephen Moysey, I work to bring virtual reality to the university in a variety of ways including setting up VR systems, coordinating generally available VR equipment for students and faculty, and creating demos for VR."
+      "startDate": "2017-12-15",
+      "summary": "Under the Office of Information Security and Privacy, I am a full-time analyst of Clemson's computer network for identifying potential cyber security threats, mitigating current threats, and preventing current threats from happening in the future."
     },
     {
       "company": "FoosterNET, LLC",
@@ -42,6 +36,21 @@
       "website": "https://fooster.io/",
       "startDate": "2013-11-26",
       "summary": "FoosterNET, LLC is a company I use for freelance work in cyber security consulting, system administration, and computer programming. It additionally sanctions all other services I provide for money including server hosting."
+    },
+    {
+      "company": "Clemson University",
+      "position": "Cyber Security Intern",
+      "website": "https://ccit.clemson.edu/about/departments/security-operations-center/",
+      "startDate": "2017-01-27",
+      "endDate": "2017-12-15",
+      "summary": "Under the Office of Information Security and Privacy, I was a part-time analyst of Clemson's computer network for identifying potential cyber security threats, mitigating current threats, and preventing current threats from happening in the future."
+    },
+    {
+      "company": "Clemson University",
+      "position": "Virtual Reality Intern",
+      "startDate": "2017-01-27",
+      "endDate": "2017-05-05",
+      "summary": "Under Dr. Stephen Moysey, I worked to bring virtual reality to the university in a variety of ways including setting up VR systems, coordinating generally available VR equipment for students and faculty, and creating demos for VR."
     },
     {
       "company": "Clemson University",
@@ -65,7 +74,7 @@
       "position": "Mentor",
       "website": "http://ehs.pickens.k12.sc.us/fine_arts_organizations/student_life/robotics_club",
       "startDate": "2016-09-13",
-      "summary": "After having three years of experience of participating in the FIRST Tech Challenge robotics competition, or FTC, including one year of which I was team captain and made it to the super regional competition, I mentor the nearby Easley team, Star Bots."
+      "summary": "After having three years of experience of participating in the FIRST Tech Challenge robotics competition, or FTC, including one year of which I was team captain and made it to the super regional competition, I mentor the nearby Easley team, Starbots."
     },
     {
       "organization": "CU Cyber",
@@ -113,7 +122,9 @@
         "Computer Security Principles",
         "Special Topics in Embedded Computing",
         "Foundations of Computer Science",
-        "Distributed and Cluster Computing"
+        "Distributed and Cluster Computing",
+        "2D Game Engine Construction",
+        "Virtual Reality Systems"
       ]
     },
     {
