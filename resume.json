@@ -77,13 +77,6 @@
       "summary": "After having three years of experience of participating in the FIRST Tech Challenge robotics competition, or FTC, including one year of which I was team captain and made it to the super regional competition, I mentor the nearby Easley team, Starbots."
     },
     {
-      "organization": "CU Cyber",
-      "position": "Level 5 Tech Support",
-      "website": "https://cucyber.net/",
-      "startDate": "2015-08-27",
-      "summary": "CU Cyber is the cyber security club at Clemson University. We participate in cyber defense competitions and hold weekly seminars involving cyber security. I was the secretary and am now Level 5 Tech Support of CU Cyber where I maintain club organization, club preparation, and various technological aspects. I additionally help create many of the weekly seminars given."
-    },
-    {
       "organization": "SC Robotics Education Foundation",
       "position": "Field Technical Advisor and Field Inspector",
       "website": "http://scref.org/",
@@ -96,6 +89,21 @@
       "website": "https://github.com/fkmclane/overlay",
       "startDate": "2013-05-26",
       "summary": "I have a recognized overlay for my distribution of choice for my workstation, Gentoo. I maintain over 150 packages in this overlay that range from little X11 tools to the Unity Editor, from the game engine, for Linux to all of the Linux software associated with Plex. Additionally I have a few of my own tools that I wrote such as one to manage tty sessions intelligently without having a display manager."
+    },
+    {
+      "organization": "CU Cyber",
+      "position": "Level 5 Tech Support",
+      "website": "https://cucyber.net/",
+      "startDate": "2015-08-27",
+      "endDate": "2018-04-17",
+      "summary": "CU Cyber is the cyber security club at Clemson University. We participate in cyber defense competitions and hold weekly seminars involving cyber security. I was the secretary and then Level 5 Tech Support of CU Cyber where I maintained club organization, club preparation, and various technological aspects. I additionally helped create many of the weekly seminars given."
+    },
+    {
+      "organization": "CU Rocket Engineering",
+      "position": "Lead Avionics",
+      "startDate": "2017-01-11",
+      "endDate": "2018-08-22",
+      "summary": "As lead avionics, I coordinated the team that created the electronic internals of the rockets we flew at the Intercollegiate Rocket Engineering Competition. I did a lot of the design work and kept the team productive."
     },
     {
       "organization": "Clemson ACM",
