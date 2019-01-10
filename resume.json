@@ -165,6 +165,12 @@
   ],
   "awards": [
     {
+      "title": "GIAC Certified Intrusion Analyst",
+      "date": "2019-01-09",
+      "awarder": "Global Information Assurance Certification",
+      "summary": "The certification signifies a demonstrated knowledge of intrusion detection techniques as an information security analyst."
+    },
+    {
       "title": "Outstanding Research and Presentation",
       "date": "2014-04-05",
       "awarder": "SC Junior Academy of Science",
