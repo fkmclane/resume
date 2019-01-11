@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Foster McLane",
-    "label": "Cyber Security Analyst",
+    "label": "Information Security Analyst",
     "picture": "https://file.fooster.io/fkmclane/portrait.jpg",
     "email": "fkmclane@gmail.com",
     "phone": "(919) FOOSTER",
@@ -25,7 +25,7 @@
   "work": [
     {
       "company": "Clemson University",
-      "position": "Cyber Security Analyst",
+      "position": "Information Security Analyst",
       "website": "https://ccit.clemson.edu/about/departments/security-operations-center/",
       "startDate": "2017-12-15",
       "summary": "Under the Office of Information Security and Privacy, I am a full-time analyst of Clemson's computer network for identifying potential cyber security threats, mitigating current threats, and preventing current threats from happening in the future."
@@ -39,7 +39,7 @@
     },
     {
       "company": "Clemson University",
-      "position": "Cyber Security Intern",
+      "position": "Cybersecurity Intern",
       "website": "https://ccit.clemson.edu/about/departments/security-operations-center/",
       "startDate": "2017-01-27",
       "endDate": "2017-12-15",
@@ -69,6 +69,20 @@
     }
   ],
   "volunteer": [
+    {
+      "organization": "GIAC Advisory Board",
+      "position": "Member",
+      "website": "https://www.giac.org/certified-professionals/advisory-board",
+      "startDate": "2019-01-09",
+      "summary": "After completing my GCIA certification from GIAC, I've been invited to the GIAC Advisory Board which takes an active role in the GIAC program and in SANS training."
+    },
+    {
+      "organization": "FRC - Metal in Motion 343",
+      "position": "Mentor",
+      "website": "https://metalinmotion.com/",
+      "startDate": "2018-12-06",
+      "summary": "After having several years volunteering with FIRST as a mentor and Field Technical Advisor (FTA), I mentor the nearby Oconee team, Metal in Motion."
+    },
     {
       "organization": "FTC - Star Bots 6170",
       "position": "Mentor",
