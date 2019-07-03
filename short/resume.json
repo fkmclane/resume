@@ -77,13 +77,6 @@
       "summary": "After completing my GCIA certification from GIAC, I've been invited to the GIAC Advisory Board which takes an active role in the GIAC program and in SANS training."
     },
     {
-      "organization": "FRC - Metal in Motion 343",
-      "position": "Mentor",
-      "website": "https://metalinmotion.com/",
-      "startDate": "2018-12-06",
-      "summary": "After having several years volunteering with FIRST as a mentor and Field Technical Advisor (FTA), I mentor the nearby Oconee team, Metal in Motion."
-    },
-    {
       "organization": "CU Cyber",
       "position": "Staff Advisor",
       "website": "https://cucyber.net/",
@@ -96,21 +89,6 @@
       "website": "http://scref.org/",
       "startDate": "2015-01-31",
       "summary": "After three years of experience of participating in the FIRST Tech Challenge robotics competition, I volunteer to run the scrimmage hosted by the SC GSSM and am the main technical coordinator for the state competition."
-    },
-    {
-      "organization": "Gentoo Overlay - fkmclane",
-      "position": "Owner",
-      "website": "https://github.com/fkmclane/overlay",
-      "startDate": "2013-05-26",
-      "summary": "I have a recognized overlay for my distribution of choice for my workstation, Gentoo. I maintain over 150 packages in this overlay that range from little X11 tools to the Unity Editor, from the game engine, for Linux to all of the Linux software associated with Plex. Additionally I have a few of my own tools that I wrote such as one to manage tty sessions intelligently without having a display manager."
-    },
-    {
-      "organization": "FTC - Starbots 6170",
-      "position": "Mentor",
-      "website": "http://ehs.pickens.k12.sc.us/fine_arts_organizations/student_life/robotics_club",
-      "startDate": "2016-09-13",
-      "endDate": "2018-06-01",
-      "summary": "After having three years of experience of participating in the FIRST Tech Challenge robotics competition, or FTC, including one year of which I was team captain and made it to the super regional competition, I mentored the nearby Easley team, Starbots."
     },
     {
       "organization": "CU Rocket Engineering",
@@ -142,32 +120,14 @@
       "area": "Computer Science, with an interest in Education, Math, and Language",
       "studyType": "Bachelor of Science",
       "startDate": "2014-07-18",
-      "endDate": "2019-05-09",
-      "courses": [
-        "Algorithms",
-        "Software Engineering",
-        "Operating Systems",
-        "Network Programming",
-        "Principles of Programming Languages",
-        "Computer Security Principles",
-        "Special Topics in Embedded Computing",
-        "Foundations of Computer Science",
-        "Distributed and Cluster Computing",
-        "2D Game Engine Construction",
-        "Virtual Reality Systems"
-      ]
+      "endDate": "2019-05-09"
     },
     {
       "institution": "SC Governor's School for Science and Mathematics",
       "area": "Computer Science",
       "studyType": "High School",
       "startDate": "2012-07-13",
-      "endDate": "2014-05-31",
-      "courses": [
-        "Advanced Computer Science",
-        "Digital Logic",
-        "Modern Physics"
-      ]
+      "endDate": "2014-05-31"
     }
   ],
   "publications": [
@@ -177,12 +137,6 @@
       "releaseDate": "2016-07-06",
       "website": "https://doi.org/10.1109/ACC.2016.7526640",
       "summary": "Trust-Based Mixed-Initiative Teleoperation of Mobile Robots is a scheme for the bilateral teleoperation of mobile robotic systems using a quadrotor, ground robot, and a haptic feedback device. In the scheme, control is shared between human and autonomous controllers with the human controller having force feedback cues. Two-way trust models are calculated to dynamically scale each control input for optimal performance and reduced physical workload of the human operator. The results indicate that the proposed scheme improves task performance by 31% and reduces the operator workload by 23.9%."
-    },
-    {
-      "name": "Vision-Based Control of a Quadrotor",
-      "publisher": "SC GSSM",
-      "releaseDate": "2014-02-01",
-      "summary": "Vision-Based Control of a Quadrotor uses a quadrotor and its two mounted cameras to have the quadrotor perform basic analysis of its environment and make decisions based on it. It includes basic applications for following a marked path or object and an extensible interface for writing more complex autonomous logic."
     }
   ],
   "awards": [
@@ -197,12 +151,6 @@
       "date": "2019-01-09",
       "awarder": "Global Information Assurance Certification",
       "summary": "The certification signifies a demonstrated knowledge of intrusion detection techniques as an information security analyst."
-    },
-    {
-      "title": "Outstanding Research and Presentation",
-      "date": "2014-04-05",
-      "awarder": "SC Junior Academy of Science",
-      "summary": "Awards: 1st Oral Presentation - Computer Science, 1st Written Presentation - Computer Science. The awards included an invitation to the American Junior Academy of Science."
     }
   ],
   "skills": [
@@ -247,32 +195,6 @@
       ]
     },
     {
-      "name": "Virtualization",
-      "level": "Proficient",
-      "keywords": [
-        "libvirt",
-        "oVirt",
-        "Stateless Hypervisors"
-      ]
-    },
-    {
-      "name": "Software Development",
-      "level": "Proficient",
-      "keywords": [
-        "REST",
-        "Robot Operating System",
-        "GTK+"
-      ]
-    },
-    {
-      "name": "Game Development",
-      "level": "Learning",
-      "keywords": [
-        "Unity 3D",
-        "Pyglet"
-      ]
-    },
-    {
       "name": "Web Development",
       "level": "Proficient",
       "keywords": [
@@ -283,24 +205,6 @@
         "PHP",
         "Python",
         "Django"
-      ]
-    },
-    {
-      "name": "Computer Graphics",
-      "level": "Learning",
-      "keywords": [
-        "Blender",
-        "GIMP",
-        "Inkscape"
-      ]
-    },
-    {
-      "name": "Text Editing",
-      "level": "Master",
-      "keywords": [
-        "Neovim",
-        "Vim",
-        "Vi"
       ]
     },
     {
